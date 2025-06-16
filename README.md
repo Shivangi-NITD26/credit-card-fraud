@@ -9,7 +9,7 @@ Logistic Regression<br>
 Decision Tree<br>
 Random Forest
 
-# -pAnalysis:
+# -Analysis:
 Logistic Regression achieved the highest recall (77%) and the best ROC-AUC score (0.84), indicating strong ability to detect fraud cases. However, it suffers from extremely low precision (1%), meaning a high number of false positives.
 
 Decision Tree provided a better balance between precision and recall, resulting in the highest F1-score (0.19) for the fraud class. It also showed a very high overall accuracy (98%) and a strong ROC-AUC score (0.83).
