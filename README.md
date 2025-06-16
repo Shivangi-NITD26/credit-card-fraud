@@ -5,8 +5,8 @@ Full dataset can be downloaded from: [Kaggle Link](https://www.kaggle.com/datase
 This project focuses on building a machine learning model to detect fraudulent credit card transactions using a real-world dataset. Fraud detection is a critical challenge in the financial industry, where the goal is to identify unusual patterns that may indicate illegal activity.
 
 # -Algorithms Used
-Logistic Regression
-Decision Tree
+Logistic Regression<br>
+Decision Tree<br>
 Random Forest
 
 # -pAnalysis:
